@@ -32,15 +32,14 @@
 
   <div align=center>
 :cherries:Tech Stacks :cherries:
-[[!Python]  <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white"/>]
-2)  JavaScript 
-	  [[!JS Badge]<img src="https://img.shields.io/badge/JavaScript-%#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>]
-3)Tensorflow 
-	  	  [[!TensorFlow]<img src="https://img.shields.io/badge/TensorFlow-%#FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>]
-4)Pytorch
-	   [[!Pytorch]<img src="https://img.shields.io/badge/Pytorch-%#EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>]
-5) Keras
-   [[!Keras]<img src="https://img.shields.io/badge/Keras-%#D000002C?style=flat-square&logo=Keras&logoColor=white"/>]
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
+	  	<img src="https://img.shields.io/badge/TensorFlow-%#FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+
+	   <img src="https://img.shields.io/badge/PyTorch-%#EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-%#D000002C?style=flat-square&logo=Keras&logoColor=white"/>
 
 
 ⚡About Me⚡ 
