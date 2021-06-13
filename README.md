@@ -1,6 +1,5 @@
 
 # Hi there 👋
-
 #### _Passionate, Hard-working, Grit_ 
 
 ### **My name is ✨Hyelim Kim✨ and I am a Data Analyst** 
