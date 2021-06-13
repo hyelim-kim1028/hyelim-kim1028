@@ -33,7 +33,6 @@
   <div align=center>
 :cherries:Tech Stacks :cherries:
 	  
-
  ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
  ![JavaScript](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
  ![TensorFlow](http://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
