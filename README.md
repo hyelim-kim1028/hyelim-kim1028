@@ -1,7 +1,8 @@
 
-  <div align=center>
-#Hi, there 👋
-###_Passionate, Hard-working, Grit_ 
+<html>
+<div align=center>
+  <h1>Hi, there 👋</h1>
+  <em>Passionate, Hard-working, Grit</em> 
 
 ### **My name is ✨Hyelim Kim✨ and I am a Data Analyst** 
 (🌱soon to become a Data Scientist🌱) 
@@ -57,3 +58,4 @@
 [![Hyelim-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyelim-kim1028&theme=nightowl)](https://github.com/hyelim-kim1028/github-readme-stats)
   
   </div>
+  </html>
