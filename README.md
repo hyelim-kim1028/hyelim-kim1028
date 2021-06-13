@@ -10,7 +10,8 @@
 - MLOps (Machine Learning Operation - ML/DL Model production) 
 - NLP 
 - Image AI 
-/
+
+
 :watermelon: Domains :watermelon: 
 - BI
 - Economics 
