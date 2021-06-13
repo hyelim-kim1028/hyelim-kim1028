@@ -70,7 +70,7 @@
 2) Notion 
 3) Medium
 4) Velog 
-5) gmail 
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hye.kim@obf.ateneo.edu)](hye.kim@obf.ateneo.edu)
 
 👯Open to all kinds of collaboration project offers👯
 
