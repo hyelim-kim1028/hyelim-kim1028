@@ -3,9 +3,9 @@
 
 #### _Passionate, Hard-working, Grit_ 
 
-### My name is ✨Hyelim Kim✨ and I am a Data Analyst 
+### **My name is ✨Hyelim Kim✨ and I am a Data Analyst** 
 (🌱soon to become a Data Scientist🌱) 
-
+<br/>
 :lemon: Interests :lemon:
 - MLOps (Machine Learning Operation - ML/DL Model production) 
 - NLP 
@@ -36,12 +36,13 @@
 
 
 ⚡About Me⚡ 
-👯Open to all kinds of collaboration project offers👯 .
-1) velog 
+👯Open to all kinds of collaboration project offers👯
+1)TechBlog 
 2) Notion 
-3) Gmail 
-4) Github Blog 
-5) Medium 
+3) Medium
+4) Velog 
+5) gmail 
+
 
 
 [![Hyelim-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyelim-kim1028&theme=nightowl)](https://github.com/hyelim-kim1028/github-readme-stats)
