@@ -53,9 +53,9 @@
 ⚡About Me⚡ 
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyelim-kim1028.github.io/)](https://hyelim-kim1028.github.io/)
-2) Notion 
-3) Medium
-4) Velog 
+[![Notion Badge]]
+[![Medium Badge]]
+[![Velog Badge]]
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hye.kim@obf.ateneo.edu)](hye.kim@obf.ateneo.edu)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyelim-kim-55b580132/)](https://www.linkedin.com/in/hyelim-kim-55b580132/)
 	  
