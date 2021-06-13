@@ -33,7 +33,6 @@
 5) NLP 
 6) Image AI 
 
-<hr/>
 
 ⚡About Me⚡ 
 👯Open to all kinds of collaboration project offers👯
