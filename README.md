@@ -6,29 +6,26 @@
 ### **My name is ✨Hyelim Kim✨ and I am a Data Analyst** 
 (🌱soon to become a Data Scientist🌱) 
 
-  </div>
-  
+ 
 <hr/>
 
-<div align=center>
-:lemon: Interests :lemon:
-  </div> 
+:lemon: Interests :lemon:   
 <ul>
 <li>MLOps (Machine Learning Operation - ML/DL Model production)</li>  
 <li>NLP</li>  
 <li>Image AI</li>  
 </ul>
   
-<div align=center>
+
 :watermelon: Domains :watermelon: 
-</div>
 <ul>
   <li>BI</li>
   <li>Economics</li> 
   <li>Sociology/politics/international relations related topic</li> 
 </ul>
- <div align=center>
+ 
 <hr/>
+  
 :cherries:Tech Stacks :cherries:
 
 1) Python: 
