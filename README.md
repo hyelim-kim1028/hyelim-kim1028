@@ -15,9 +15,9 @@
 
 <hr/>
 :watermelon: Domains :watermelon: 
-- BI
-- Economics 
-- Social phenomenon related topic. 
+ - BI
+ - Economics 
+ - Social phenomenon related topic. 
 
 <hr/>
 :cherries:Tech Stacks :cherries:
