@@ -5,7 +5,7 @@
 
 ### My name is ✨Hyelim Kim✨ and I am a Data Analyst 
 (🌱soon to become a Data Scientist🌱) 
-/
+
 :lemon: Interests :lemon:
 - MLOps (Machine Learning Operation - ML/DL Model production) 
 - NLP 
