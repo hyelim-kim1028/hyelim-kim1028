@@ -34,20 +34,18 @@
 :cherries:Tech Stacks :cherries:
 
 1) Python: 
-<a href="https://github.com/hyelim-kim1028/hyelim-kim1028" target="_blank"><img src="https://img.shields.io/badge/python-red?style=flat-square&logo=python&logoColor=white"/></a> 
-
-    [![Python](http://img.shields.io/badge/-python-red?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-    
-[![Python](http://img.shields.io/badge/-python%20blog-red?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-
-    
+    [[!Python Badge]https://img.shields.io/badge/python-%233776AB]
+	  <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white"/>
 2)  JavaScript 
-3) Machine Learning 
+	  [[!JS Badge]]
+3) Machine Learning
+	  [[!MLOps]]
 4) Deep Learning 
+	  [[!DL]]
 5) NLP 
+	  [[!NLP]]
 6) Image AI 
+	  [[!ImageAI]]
 
 
 ⚡About Me⚡ 
@@ -56,7 +54,7 @@
 [![Notion Badge]]
 [![Medium Badge]]
 [![Velog Badge]]
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hye.kim@obf.ateneo.edu)](hye.kim@obf.ateneo.edu)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hye.kim@obf.ateneo.edu)](mailto:hye.kim@obf.ateneo.edu)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyelim-kim-55b580132/)](https://www.linkedin.com/in/hyelim-kim-55b580132/)
 	  
 👯Open to all kinds of collaboration project offers👯
