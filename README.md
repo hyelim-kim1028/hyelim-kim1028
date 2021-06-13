@@ -1,4 +1,5 @@
 
+  <div align=center>
 # Hi there 👋
 #### _Passionate, Hard-working, Grit_ 
 
@@ -15,7 +16,7 @@
 :watermelon: Domains :watermelon: 
 - BI
 - Economics 
-- Social phenomenon related topic. 
+- Sociology/politics/international relations related topic. 
 
 <hr/>
 :cherries:Tech Stacks :cherries:
@@ -47,3 +48,5 @@
 <hr/>
 
 [![Hyelim-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyelim-kim1028&theme=nightowl)](https://github.com/hyelim-kim1028/github-readme-stats)
+  
+  </div>
