@@ -32,20 +32,15 @@
 
   <div align=center>
 :cherries:Tech Stacks :cherries:
-
-1) Python: 
-    [[!Python Badge]https://img.shields.io/badge/python-%233776AB]
-	  <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white"/>
+[[!Python]  <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white"/>]
 2)  JavaScript 
-	  [[!JS Badge]]
-3) Machine Learning
-	  [[!MLOps]]
-4) Deep Learning 
-	  [[!DL]]
-5) NLP 
-	  [[!NLP]]
-6) Image AI 
-	  [[!ImageAI]]
+	  [[!JS Badge]<img src="https://img.shields.io/badge/JavaScript-%#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>]
+3)Tensorflow 
+	  	  [[!TensorFlow]<img src="https://img.shields.io/badge/TensorFlow-%#FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>]
+4)Pytorch
+	   [[!Pytorch]<img src="https://img.shields.io/badge/Pytorch-%#EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>]
+5) Keras
+   [[!Keras]<img src="https://img.shields.io/badge/Keras-%#D000002C?style=flat-square&logo=Keras&logoColor=white"/>]
 
 
 ⚡About Me⚡ 
