@@ -13,17 +13,20 @@
 <div align=center>
 :lemon: Interests :lemon:
   </div> 
-- MLOps (Machine Learning Operation - ML/DL Model production) 
-- NLP 
-- Image AI 
-
+<ul>
+<li>MLOps (Machine Learning Operation - ML/DL Model production)</li>  
+<li>NLP</li>  
+<li>Image AI</li>  
+</ul>
+  
 <div align=center>
 :watermelon: Domains :watermelon: 
 </div>
-- BI
-- Economics 
-- Sociology/politics/international relations related topic. 
-
+<ul>
+  <li>BI</li>
+  <li>Economics</li> 
+  <li>Sociology/politics/international relations related topic</li> 
+</ul>
  <div align=center>
 <hr/>
 :cherries:Tech Stacks :cherries:
