@@ -35,12 +35,14 @@
 
 
 ⚡About Me⚡ 
-👯Open to all kinds of collaboration project offers👯
+
 1)TechBlog 
 2) Notion 
 3) Medium
 4) Velog 
 5) gmail 
+
+👯Open to all kinds of collaboration project offers👯
 
 <hr/>
 
