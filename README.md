@@ -1,7 +1,7 @@
 
   <div align=center>
-# Hi there 👋
-#### _Passionate, Hard-working, Grit_ 
+#Hi, there 👋
+###_Passionate, Hard-working, Grit_ 
 
 ### **My name is ✨Hyelim Kim✨ and I am a Data Analyst** 
 (🌱soon to become a Data Scientist🌱) 
