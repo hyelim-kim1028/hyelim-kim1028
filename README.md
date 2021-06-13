@@ -10,6 +10,7 @@
 :lemon: I love applying these tech skills in BI,Economics and Sociology related topic. 
 
 
+
 :cherries:Tech Stacks :cherries:
 1) Python: 
 <a href="https://github.com/hyelim-kim1028/hyelim-kim1028" target="_blank"><img src="https://img.shields.io/badge/python-red?style=flat-square&logo=python&logoColor=white"/></a> 
@@ -23,6 +24,8 @@
 4) Deep Learning 
 5) NLP 
 6) Image AI 
+
+
 
 ⚡About Me⚡ 
 👯Open to all kinds of collaboration project offers👯 .
