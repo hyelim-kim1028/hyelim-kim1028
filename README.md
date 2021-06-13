@@ -4,10 +4,11 @@
 
 ### My name is ✨Hyelim Kim✨ and I am a Data Analyst 
 (🌱soon to become a Data Scientist🌱) 
+
 :lemon: I am interested in studying Statistics, Machine Learning, Deep Learning, NLP and Image AI  
+
 :lemon: I love applying these tech skills in BI,Economics and Sociology related topic. 
 
-👯Open to all kinds of collaboration project offers👯 .
 
 :cherries:Tech Stacks :cherries:
 1) Python: 
@@ -24,6 +25,7 @@
 6) Image AI 
 
 ⚡About Me⚡ 
+👯Open to all kinds of collaboration project offers👯 .
 1) velog 
 2) Notion 
 3) Gmail 
