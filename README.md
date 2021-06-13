@@ -1,37 +1,34 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**hyelim-kim1028/hyelim-kim1028** is a ✨ _special_✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### _Passionate, Hard-working, Grit_ 
 
-Here are some ideas to get you started:
+### My name is ✨Hyelim Kim✨ and I am a Data Analyst 
+(🌱soon to become a Data Scientist🌱) 
+:lemon: I am interested in studying Statistics, Machine Learning, Deep Learning, NLP and Image AI  
+:lemon: I love applying these tech skills in BI,Economics and Sociology related topic. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-My name is ✨Hyelim Kim✨ and I am a Data Analyst (🌱soon to become a Data Scientist🌱) 
-I am interested in studying Statistics, Machine Learning, Deep Learning, NLP and Image AI  
-Applying these tech skills in BI,Economics and Sociology related topic. 
-👯Open to all kinds of collaboration project offers👯 
-
+👯Open to all kinds of collaboration project offers👯 .
 
 :cherries:Tech Stacks :cherries:
-# Python: <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a> 
-# JavaScript 
-# Machine Learning 
-# Deep Learning 
-# NLP 
-# Image AI 
+1) Python: 
+<a href="https://github.com/hyelim-kim1028/hyelim-kim1028" target="_blank"><img src="https://img.shields.io/badge/python-red?style=flat-square&logo=python&logoColor=white"/></a> 
+
+[![Python](http://img.shields.io/badge/-python%20blog-red?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+
+2)  JavaScript 
+3) Machine Learning 
+4) Deep Learning 
+5) NLP 
+6) Image AI 
 
 ⚡About Me⚡ 
-# velog 
-# Notion 
-# Gmail 
-# Github Blog 
-# Medium 
+1) velog 
+2) Notion 
+3) Gmail 
+4) Github Blog 
+5) Medium 
+
+
+[![Hyelim-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyelim-kim1028&theme=nightowl)](https://github.com/hyelim-kim1028/github-readme-stats)
