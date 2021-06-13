@@ -1,13 +1,20 @@
+
 # Hi there 👋
 
 #### _Passionate, Hard-working, Grit_ 
 
 ### My name is ✨Hyelim Kim✨ and I am a Data Analyst 
 (🌱soon to become a Data Scientist🌱) 
-
-:lemon: I am interested in studying Statistics, Machine Learning, Deep Learning, NLP and Image AI  
-
-:lemon: I love applying these tech skills in BI,Economics and Sociology related topic. 
+/
+:lemon: Interests :lemon:
+- MLOps (Machine Learning Operation - ML/DL Model production) 
+- NLP 
+- Image AI 
+/
+:watermelon: Domains :watermelon: 
+- BI
+- Economics 
+- Social phenomenon related topic. 
 
 
 
