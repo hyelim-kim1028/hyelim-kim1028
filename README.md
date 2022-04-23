@@ -32,9 +32,11 @@
 
   <div align=center>
 :cherries:Tech Stacks :cherries:
+
+ ![SAS](http://img.shields.io/badge/SAS?style=flat-square&logo=Python&logoColor=white)
+ ![SQL](http://img.shields.io/badge/SQL-F80000?style=flat-square&logo=Python&logoColor=white)
 	  
  ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
- ![JavaScript](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
  ![TensorFlow](http://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
  ![PyTorch](http://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
  ![Keras](http://img.shields.io/badge/Keras-D000002C?style=flat-square&logo=Keras&logoColor=white)
@@ -45,7 +47,6 @@
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyelim-kim1028.github.io/)](https://hyelim-kim1028.github.io/)
  ![Notion](http://img.shields.io/badge/Notion-Black?style=flat-square&logo=Notion&logoColor=white)
  ![Medium](http://img.shields.io/badge/Medium-Black?style=flat-square&logo=Medium&logoColor=white)
- ![Velog](http://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hye.kim@obf.ateneo.edu)](mailto:hye.kim@obf.ateneo.edu)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyelim-kim-55b580132/)](https://www.linkedin.com/in/hyelim-kim-55b580132/)
 	  
