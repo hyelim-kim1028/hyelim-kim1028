@@ -15,17 +15,17 @@
     </div>
 <ul>
 <li>MLOps (Machine Learning Operation - ML/DL Model production)</li>  
-<li>NLP</li>  
-<li>Image AI</li>  
+<li>Data Analytics</li>  
+<li>Statistics/Mathematics</li>  
 </ul>
   
 <div align=center>
 :watermelon: Domains :watermelon: 
   </div>
 <ul>
+  <li>Finance</li> 
   <li>BI</li>
   <li>Economics</li> 
-  <li>Sociology/politics/international relations related topic</li> 
 </ul>
  
 <hr/>
